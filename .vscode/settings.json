@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "epoll.h": "c"
-    }
+    },
+    "cSpell.words": [
+        "Epoll"
+    ]
 }

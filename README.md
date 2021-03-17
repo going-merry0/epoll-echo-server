@@ -1,6 +1,6 @@
 ## Epoll echo server
 
-For unify the environment, it's recommended to follow this guide [C++ development with Docker containers in Visual Studio Code](https://devblogs.microsoft.com/cppblog/c-development-with-docker-containers-in-visual-studio-code/) to run this example in docker with VSCode
+For unifying the environment, it's recommended to follow this guide [C++ development with Docker containers in Visual Studio Code](https://devblogs.microsoft.com/cppblog/c-development-with-docker-containers-in-visual-studio-code/) to run this example in docker with VSCode
 
 ## Usage
 
